@@ -61,7 +61,7 @@
 
 /* Página */
 .bien-page {
-  background: url('./img/coo.jpeg') no-repeat center center fixed;
+  background: url('/public/img/coo.jpeg') no-repeat center center fixed;
   background-size: cover;
   width: 100%;
   min-height: 100vh; /* Se asegura de ocupar toda la altura de la pantalla */
