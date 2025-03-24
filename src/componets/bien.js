@@ -71,7 +71,7 @@ function Bien() {
         <div className={styles['card-container']}>
           <div className={styles.card}>
             <div className={styles['front-content']}>
-              <img src="/img/dermatologia.jpg" alt="Imagen de Dermatología" />
+              <img src="./img/dermatologia.jpg" alt="Imagen de Dermatología" />
               <h3>Dermatología</h3>
             </div>
             <div className={styles.content}>
