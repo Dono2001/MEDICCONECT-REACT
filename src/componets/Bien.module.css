@@ -390,4 +390,22 @@
   line-height: 1.8;     /* Aumentar la altura de línea para mejorar la legibilidad */
 }
 
+/* Media queries para pantallas más pequeñas */
+@media screen and (max-width: 768px) {
+  .navbar {
+      flex-direction: column;
+      text-align: center;
+  }
+  
+  .navbar .menu {
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 10px;
+  }
+
+  .citas-img {
+      width: 90%;
+  }
+}
+
 
